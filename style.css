@@ -44,7 +44,7 @@ nav .active a, nav a:hover{
 	color: #fff;
 }
 #banner{
-	background-image: url('../images/img1.jpg');
+	background-image: url('img1.jpg');
 	background-position: center;
 	max-width: 100%;
 	background-size: cover;
